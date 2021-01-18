@@ -34,8 +34,6 @@ GIF created with [EZGIF.COM](https://ezgif.com/video-to-gif/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2021] [Timmy Tushar Rajan Susai Rajan]
